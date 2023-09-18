@@ -1,0 +1,11 @@
+.profile{
+    border-radius: 100%;
+    max-height: 15em;
+}
+
+.Contain{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    justify-items: space-between;
+}
